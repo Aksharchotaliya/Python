@@ -3,7 +3,7 @@ import array as arr
 numbers = arr.array('i',[10,20,30])
 
 #this len() is used to find length of the array:
-print("this len() is used to find length of the array:")
+print("/n ")
 print(len(numbers))
 
 #arry start with 0 index value:
